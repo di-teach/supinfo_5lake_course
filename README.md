@@ -1,14 +1,14 @@
 # Cloud Data Services module setup
 
-This guide will help you set up the environment needed for the **Cloud Data Services** module.<br />
-We will ensure that you have access to **Azure**, **Python**, and other necessary tools to complete the course successfully.
+This guide will help you set up the environment needed for the **Cloud Data Services** module.<br />  
+We will ensure that you have access to **Databricks Community Edition**, **Python**, and other necessary tools to complete the course successfully.
 
 ---
 
 ## Prerequisites
 
 For this course, you will need the following tools and environments:
-- **Microsoft Azure account** for deploying cloud data services.
+- **Databricks Community Edition account** for cloud data services.
 - **Python** for scripting and data processing.
 - **Docker** to containerize and run services locally.
 - **Git** and **Bash** for command-line operations.
@@ -74,18 +74,21 @@ If you check the Docker App, you should see a getting started container running.
 
 ---
 
-## Step 4: Creating a Microsoft Azure Account
+### Step 4: Creating a Databricks Community Edition Account
 
-If you don't have an Azure account, follow these steps to create one. Azure provides a **free tier** which includes limited usage of services like **Azure Data Factory**, **Synapse Analytics**, and **Azure Blob Storage**.
+For this course, we will use **Databricks Community Edition** for data processing and cluster management. Follow these steps to create an account:
 
-### Azure Account Creation
+#### Sign up for Databricks Community Edition:
 
-1. **Sign up for Azure**:
-    - Visit [Azure Free Account Sign Up](https://azure.microsoft.com/en-us/free/) and sign up for a free account.
-    - You will need to provide a valid credit card for identity verification. No charges will be applied to your account unless you exceed the free tier limits.
+- Visit [Databricks Community Edition](https://community.cloud.databricks.com/signup) and sign up for a free account.
+- Databricks Community Edition provides a free, hosted environment for running Apache Spark jobs and Delta Lake features.
 
-2. **Activate free services**:
-    - Once signed up, you can activate your free services, which include **750 hours of virtual machines**, **5 GB of Blob storage**, and **free use of Data Factory** and **Synapse Analytics** for a limited time.
+#### Login and create a cluster:
 
-3. **Install the Azure CLI** (optional):
-    - To manage Azure services from the command line, you can install the **Azure CLI**. Instructions can be found [here](https://docs.microsoft.com/en-us/cli/azure/install-azure-cli).
+- After logging into **Databricks Community Edition**, navigate to the **Clusters** tab.
+- Create a new cluster, select the latest **Databricks Runtime Version**, and configure basic settings (e.g., name your cluster, choose instance types).
+- Start the cluster and ensure it is running correctly before proceeding with your tasks.
+
+#### Upload data:
+
+- You can upload sample datasets (e.g., CSV files) to **DBFS** (Databricks File System) via the **Data** tab in the Databricks UI.
