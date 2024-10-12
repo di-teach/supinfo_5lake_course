@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GLOSSARY>
+    <INFO>
+        <NAME>Cloud Data Services Glossary</NAME>
+        <INTRO>Glossary for the Cloud Data Services course</INTRO>
+        <STUDENTCANPOST>0</STUDENTCANPOST>
+        <ALLOWDUPLICATEDENTRIES>0</ALLOWDUPLICATEDENTRIES>
+        <DISPLAYFORMAT>dictionary</DISPLAYFORMAT>
+        <SHOWSPECIAL>1</SHOWSPECIAL>
+        <SHOWALPHABET>1</SHOWALPHABET>
+        <SHOWALL>1</SHOWALL>
+        <ALLOWCOMMENTS>1</ALLOWCOMMENTS>
+        <USEDYNALINK>1</USEDYNALINK>
+        <DEFAULTAPPROVAL>1</DEFAULTAPPROVAL>
+        <GLOBALGLOSSARY>1</GLOBALGLOSSARY>
+        <ENTBYPAGE>10</ENTBYPAGE>
+        <ENTRIES>
+            <ENTRY>
+                <CONCEPT>Azure Fabric</CONCEPT>
+                <DEFINITION>A unified platform from Microsoft that integrates data engineering, data warehousing, and analytics services into a single platform, simplifying complex data workflows.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Data Platform</CONCEPT>
+                <DEFINITION>An integrated solution that brings together various tools and services to collect, manage, process, and analyze data.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Data Ingestion</CONCEPT>
+                <DEFINITION>The process of collecting and importing data from various sources into a storage system or data platform.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Data Factory</CONCEPT>
+                <DEFINITION>A cloud-based data integration service in Azure that orchestrates and automates the movement and transformation of data.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Integration</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Synapse Analytics</CONCEPT>
+                <DEFINITION>A Microsoft Azure service that enables large-scale analytics by combining big data and data warehousing capabilities in one platform.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Analytics</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Power BI</CONCEPT>
+                <DEFINITION>A business analytics tool from Microsoft that enables users to visualize data and share insights through dashboards and reports.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Business Intelligence</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Data Lake</CONCEPT>
+                <DEFINITION>A storage repository that holds a vast amount of raw data in its native format until it is needed for processing and analysis.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Storage</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>OneLake</CONCEPT>
+                <DEFINITION>A component of Microsoft Fabric, designed as a unified storage solution that supports both structured and unstructured data.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Storage</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Real-Time Processing</CONCEPT>
+                <DEFINITION>The immediate processing of data as soon as it is ingested, providing up-to-date insights.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Processing</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>ETL/ELT</CONCEPT>
+                <DEFINITION>A data pipeline process for extracting data from sources, transforming it into a usable format, and loading it into a destination system like a data warehouse.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Transformation</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Apache Spark</CONCEPT>
+                <DEFINITION>An open-source, distributed computing system used for big data processing, real-time analytics, and machine learning.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Big Data</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Infrastructure as Code (IaC)</CONCEPT>
+                <DEFINITION>A method of automating cloud infrastructure provisioning using code, such as with Terraform.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Terraform</CONCEPT>
+                <DEFINITION>An open-source IaC tool that allows you to define and provision infrastructure resources using configuration files.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Automation</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Synapse SQL Pool</CONCEPT>
+                <DEFINITION>A part of Synapse Analytics, it provides high-performance, scalable, distributed data storage and processing for SQL-based queries.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Storage</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Blob Storage</CONCEPT>
+                <DEFINITION>A service for storing unstructured data, such as text or binary data, in Microsoft Azure.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Storage</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Python</CONCEPT>
+                <DEFINITION>A programming language commonly used for scripting in data analysis, machine learning, and automation within cloud platforms.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Programming</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Real-Time Dashboard</CONCEPT>
+                <DEFINITION>A live, interactive visualization that updates automatically as data changes or new data is ingested.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Visualization</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Monitor</CONCEPT>
+                <DEFINITION>A service that provides a unified solution for monitoring cloud applications and infrastructure in Azure.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Monitoring</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Cost Management</CONCEPT>
+                <DEFINITION>The process of tracking, analyzing, and optimizing cloud expenses to ensure efficient resource usage.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Cost Optimization</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Auto-Scaling</CONCEPT>
+                <DEFINITION>A feature that automatically adjusts the number of resources, such as VMs, based on the current workload demand.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Reserved Instances</CONCEPT>
+                <DEFINITION>A cloud pricing model where users can purchase a reserved capacity of cloud resources at a discounted rate for long-term use.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Cost Optimization</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Data Transformation</CONCEPT>
+                <DEFINITION>The process of converting data from its original format into a format suitable for analysis or reporting.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Processing</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Data Pipeline</CONCEPT>
+                <DEFINITION>A series of data processing steps where data is ingested, processed, transformed, and output to storage or visualization tools.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Processing</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Blob Storage Archive Tier</CONCEPT>
+                <DEFINITION>A storage tier in Azure Blob Storage designed for long-term storage of data that is rarely accessed but must be preserved.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Storage</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Event-Driven Architecture</CONCEPT>
+                <DEFINITION>A design pattern in which the flow of data is determined by events such as a user action or a change in data, commonly used in real-time data platforms.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Architecture</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Cloud Migration</CONCEPT>
+                <DEFINITION>The process of moving data, applications, and services from on-premises infrastructure to cloud environments.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Lift-and-Shift</CONCEPT>
+                <DEFINITION>A migration strategy where applications and data are moved to the cloud with minimal changes to their underlying architecture.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Migration</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Refactoring</CONCEPT>
+                <DEFINITION>A cloud migration strategy that involves re-architecting an application to take full advantage of cloud-native features and scalability.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Migration</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Migrate</CONCEPT>
+                <DEFINITION>A service that helps organizations assess, plan, and execute the migration of on-premises workloads to Azure.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Migration</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Budget Alerts</CONCEPT>
+                <DEFINITION>A feature in cloud cost management that notifies users when their spending approaches a predefined limit.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Cost Optimization</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Synapse Spark Pool</CONCEPT>
+                <DEFINITION>A feature in Azure Synapse Analytics that enables distributed big data processing using Apache Spark for real-time analytics and machine learning.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Big Data</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Data Governance</CONCEPT>
+                <DEFINITION>The process of managing data availability, usability, integrity, and security in enterprise systems.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Management</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Role-Based Access Control (RBAC)</CONCEPT>
+                <DEFINITION>A security mechanism that restricts access to resources based on users’ roles within an organization.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Security</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Real-Time Event Analysis</CONCEPT>
+                <DEFINITION>A data analysis process that provides immediate insights based on continuously updated data from live events, such as sports or stock market data.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Analytics</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>REST API</CONCEPT>
+                <DEFINITION>A method for two systems to communicate over the web, often used to pull data from external sources in real-time.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>APIs</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>S3 Intelligent-Tiering</CONCEPT>
+                <DEFINITION>A storage class in AWS that automatically moves data between different access tiers based on changing usage patterns, optimizing costs.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Cloud Storage</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Synapse Studio</CONCEPT>
+                <DEFINITION>A unified workspace for data preparation, data management, and data analytics in Azure Synapse Analytics.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Analytics</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+            <ENTRY>
+                <CONCEPT>Azure Synapse Link</CONCEPT>
+                <DEFINITION>A feature that enables real-time analytics on operational data in Azure Synapse Analytics, reducing the need for data movement.</DEFINITION>
+                <FORMAT>1</FORMAT>
+                <USEDYNALINK>0</USEDYNALINK>
+                <CASESENSITIVE>0</CASESENSITIVE>
+                <FULLMATCH>0</FULLMATCH>
+                <TEACHERENTRY>1</TEACHERENTRY>
+                <CATEGORIES>
+                    <CATEGORY>
+                        <NAME>Data Analytics</NAME>
+                        <USEDYNALINK>1</USEDYNALINK>
+                    </CATEGORY>
+                </CATEGORIES>
+            </ENTRY>
+        </ENTRIES>
+    </INFO>
+</GLOSSARY>
