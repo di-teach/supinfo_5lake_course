@@ -37,18 +37,9 @@ This hands-on exercise will guide you through the process of data mining, explor
 
 ---
 
-## Step 1: Set Up Your Databricks Workspace
+### **Step 1: Set Up Your Databricks Workspace**
 
-**Objective**: Ensure you have access to a Databricks workspace and understand the interface.
-
-- **Create an Account**:
-  - Go to the [Databricks website](https://databricks.com/try-databricks) and sign up for a free trial or use your organization's account.
-  - Complete the signup process and log in to your Databricks workspace.
-
-- **Explore the Workspace**:
-  - Familiarize yourself with the Databricks UI, including the **Workspace**, **Clusters**, **Notebooks**, and **Data** tabs.
-
-**Expected Result**: You have access to your Databricks workspace and are ready to start the hands-on session.
+Check that your Databricks workspace is set up (if you have not done so already during a previous exercise).
 
 ---
 
