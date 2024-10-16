@@ -29,21 +29,13 @@ This hands-on exercise will guide you through the process of data mining, explor
 
 ---
 
-### **Prerequisites**
-
-- Basic knowledge of Python programming.
-- Familiarity with machine learning and deep learning concepts.
-- Understanding of time series data and forecasting.
-
----
-
 ### **Step 1: Set Up Your Databricks Workspace**
 
 Check that your Databricks workspace is set up (if you have not done so already during a previous exercise).
 
 ---
 
-## Step 2: Import and Explore the Dataset
+## Step 2: Import and explore the Dataset
 
 **Objective**: Load a real-world dataset into Databricks and perform exploratory data analysis (EDA).
 

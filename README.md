@@ -1,4 +1,4 @@
-# Cloud Data Services module setup
+# Datalake and Databricks for data science module setup
 
 This guide will help you set up the environment needed for the **Cloud Data Services** module.<br />  
 We will ensure that you have access to **Databricks Community Edition**, **Python**, and other necessary tools to complete the course successfully.

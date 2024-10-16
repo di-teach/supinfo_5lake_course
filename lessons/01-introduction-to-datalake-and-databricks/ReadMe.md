@@ -1,10 +1,13 @@
 # Hands-on with Databricks and Delta Lake
 
-This exercise will guide you through deploying and managing an **Apache Spark cluster** using **Databricks Community Edition**, as well as ingesting and processing data with **Delta Lake**. You will explore setting up a workspace, loading data, running a Spark job, and managing data processing using Delta Lake.
+This exercise will guide you through deploying and managing an **Apache Spark cluster** using **Databricks Community Edition**, 
+as well as ingesting and processing data with **Delta Lake**.<br />
+You will explore setting up a workspace, loading data, running a Spark job, and managing data processing using Delta Lake.
 
 ## Objective
 
-Set up a **Databricks Community Edition workspace**, manage it to process a sample dataset using **Delta Lake**, and explore real-time data transformations, optimization, and management techniques.
+Set up a **Databricks Community Edition workspace**, manage it to process a sample dataset using **Delta Lake**, and explore real-time data transformations, 
+optimization, and management techniques.
 
 ### Step-by-step guide
 
@@ -14,7 +17,7 @@ Set up a **Databricks Community Edition workspace**, manage it to process a samp
 
 **Objective**: Create a Databricks account and launch a cluster to process data.
 
-- **Create an Account**:
+- **Create an account**:
   - Go to the [Databricks Community Edition](https://community.cloud.databricks.com/) and sign up with your email.
   - Once you complete the signup, you’ll be directed to your Databricks workspace.
 

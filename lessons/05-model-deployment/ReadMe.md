@@ -33,15 +33,6 @@ This hands-on exercise will guide you through the process of deploying and monit
 
 ---
 
-## Prerequisites
-
-- Basic knowledge of Python programming.
-- Familiarity with machine learning concepts.
-- Understanding of model deployment and monitoring.
-- Access to a Databricks workspace with MLflow capabilities.
-
----
-
 ### **Step 1: Set Up Your Databricks Workspace**
 
 Check that your Databricks workspace is set up (if you have not done so already during a previous exercise).

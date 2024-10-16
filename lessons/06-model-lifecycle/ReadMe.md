@@ -13,16 +13,6 @@ This hands-on exercise will guide you through setting up a Continuous Integratio
 
 ---
 
-## Prerequisites
-
-- Basic knowledge of Python programming.
-- Familiarity with machine learning concepts.
-- Understanding of Git and version control.
-- GitHub account.
-- Access to a Databricks workspace.
-
----
-
 ## Step 1: Set Up Version Control with Databricks Repos and GitHub
 
 **Objective**: Integrate your Databricks workspace with GitHub to manage code versioning.
