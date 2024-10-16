@@ -156,4 +156,3 @@ In this hands-on session, you have learned how to:
 
 This hands-on session demonstrates the power of Databricks and Delta Lake for handling large-scale data processing, optimizing 
 query performance, and managing cloud-based data pipelines efficiently.
-
